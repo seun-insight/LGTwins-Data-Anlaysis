@@ -10,6 +10,7 @@ LG 트윈스 데이터 분석원을 목표로 하는 KBO 데이터 수집 및 �
   기간: 2026.01 ~ 진행 중
 
 2. 기술 스택 (Tech Stack)
+
   Language: Python 3.11
 
   Library: Selenium, Pandas, Seaborn, Matplotlib, undetected-chromedriver
